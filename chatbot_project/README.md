@@ -29,8 +29,5 @@
    python chatbot.py
    ```
 
-## **Demo**  
-*(Add a screenshot of the chatbot working, if possible!)*  
-
 ## **Contributing**  
 Feel free to **open an issue** or suggest improvements! 🚀  
